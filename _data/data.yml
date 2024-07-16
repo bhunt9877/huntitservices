@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Billy Hunt
     tagline: IT Contractor specialising in Identity and Cloud Services
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: contact@huntitservices.co.uk
@@ -63,6 +63,7 @@ career-profile:
       - Designing and implementing PAM solutions to restrict priviledged access through the use of One Identity's Active Roles
       - On-prem Exchange (2010-2019) and Exchange Online design, management and configurtion
       - General Windows Server admistration
+      
 education:
     title: Contact
     summary: |
