@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Billy Hunt
-    tagline: Identity and Cloud Services Analyst
+    tagline: IT Contractor specialising in Identity and Cloud Services
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -55,14 +55,13 @@ sidebar:
           #link:
 
 career-profile:
-    title: Career Profile
+    title: Expertise
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I specialise in securing and managing access to critical resources within organisations. My seven years worth of experience has my expertise within the following areas:
+      Active Directory architecture and administration
+      Implementing and leveraging Azure Active Directory (AAD, now known as Entra) as a hybrid directory service
+      Designing and implementing PAM solutions to restrict priviledged access through the use of One Identity's Active Roles
+      On-prem Exchange (2010-2019) and Exchange Online design, management and configurtion
 education:
     title: Education
     info:
