@@ -67,9 +67,9 @@ career-profile:
         If my services can be of use to assist your business, please contact me at contact@huntitservices.co.uk to discuss further. My skillset within the Windows Server ecosystem is broad.
         I have in-depth knowledge of most Windows based services with not limits to Hyper-V, Failover Clustering, DHCP, NPS, Certificate Services, Remote Desktop Services, automation with Powershell and several more.
       
-education:
-    title: Contact
-    summary: |
+#education:
+    #title: Contact
+    #summary: |
         
 
 #experiences:
