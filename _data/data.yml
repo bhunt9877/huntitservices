@@ -64,29 +64,10 @@ career-profile:
       - On-prem Exchange (2010-2019) and Exchange Online design, management and configurtion
       - General Windows Server admistration
 #education:
-    #title: Education
-    #info:
-      #- degree: MSc in Computer Science
-        #university: University of London
-       # time: 2011 - 2012
-        #details: |
-          #Describe your study here lorem ipsum dolor sit amet, consectetuer
-          #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          #sociis natoque penatibus et magnis dis parturient montes, nascetur
-          #ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          #pretium quis, sem.
-            #- Bullet point
-            #- Bullet point
-      #- degree: BSc in Applied Mathematics
-       # university: Bristol University
-       # time: 2007 - 2011
-       # details: |
-        #  Describe your study here lorem ipsum dolor sit amet, consectetuer
-        #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        #  sociis natoque penatibus et magnis dis parturient montes, nascetur
-        #  ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        #    - Bullet point
-         #   - Bullet point
+    title: Contact
+    summary: |
+        If my services can be of use to assist your business, please contact me at contact@huntitservices.co.uk to discuss further. My skillset within the Windows Server ecosystem is broad.
+        I have in-depth knowledge of most Windows based services with not limits to Hyper-V, Failover Clustering, DHCP, NPS, Certificate Services, Remote Desktop Services, and several more.
 
 #experiences:
     #title: Experiences
@@ -201,7 +182,7 @@ career-profile:
   #  title: OSS Contributions
   #  intro: >
    #   You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #  section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
    # contributions:
    #   - title: Tempo
@@ -227,7 +208,7 @@ career-profile:
    ##    authors: Donald E. Knuth
     #    conference: Addison-Wesley, 1968
 #
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+     # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
      #   link: "#"
      #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
      #   conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
