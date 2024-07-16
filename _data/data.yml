@@ -62,31 +62,30 @@ career-profile:
       Implementing and leveraging Azure Active Directory (AAD, now known as Entra) as a hybrid directory service
       Designing and implementing PAM solutions to restrict priviledged access through the use of One Identity's Active Roles
       On-prem Exchange (2010-2019) and Exchange Online design, management and configurtion
-education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+#education:
+    #title: Education
+    #info:
+      #- degree: MSc in Computer Science
+        #university: University of London
+       # time: 2011 - 2012
+        #details: |
+          #Describe your study here lorem ipsum dolor sit amet, consectetuer
+          #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          #sociis natoque penatibus et magnis dis parturient montes, nascetur
+          #ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          #pretium quis, sem.
+            #- Bullet point
+            #- Bullet point
+      #- degree: BSc in Applied Mathematics
+       # university: Bristol University
+       # time: 2007 - 2011
+       # details: |
+        #  Describe your study here lorem ipsum dolor sit amet, consectetuer
+        #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        #  sociis natoque penatibus et magnis dis parturient montes, nascetur
+        #  ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        #    - Bullet point
+         #   - Bullet point
 
 experiences:
     title: Experiences
